@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class NewTest {
   @Test
   public void f() {
-	  System.out.print("common test");
+	  System.out.print("common test 33");
 	  
   }
 }
