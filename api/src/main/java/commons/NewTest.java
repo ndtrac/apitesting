@@ -5,8 +5,8 @@ import org.testng.annotations.Test;
 public class NewTest {
   @Test
   public void f() {
-	  System.out.print("common test");
-	  System.out.print("common test2");
+	  System.out.print("common test conflict after resolve");
+
 	  
   }
 }
